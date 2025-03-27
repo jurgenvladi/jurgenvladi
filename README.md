@@ -1,4 +1,10 @@
+
+<div align="center">
+
 # Hi there! I'm Jurgen 👋
+
+</div>
+
 ## 🌐 Software Engineering Student | Tech Innovator
 Innovative software engineering student dedicated to transforming complex ideas into elegant, efficient code. Driven by a passion for technological problem-solving and continuous learning.
 ## 💻 Tech Playground
